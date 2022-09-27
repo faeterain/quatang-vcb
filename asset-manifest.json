@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quatang-vcb/static/css/main.073c9b0a.css",
+    "main.js": "/quatang-vcb/static/js/main.82b10b2f.js",
+    "static/js/787.a46fa3d6.chunk.js": "/quatang-vcb/static/js/787.a46fa3d6.chunk.js",
+    "static/media/logo.svg": "/quatang-vcb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quatang-vcb/index.html",
+    "main.073c9b0a.css.map": "/quatang-vcb/static/css/main.073c9b0a.css.map",
+    "main.82b10b2f.js.map": "/quatang-vcb/static/js/main.82b10b2f.js.map",
+    "787.a46fa3d6.chunk.js.map": "/quatang-vcb/static/js/787.a46fa3d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82b10b2f.js"
+  ]
+}
